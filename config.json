@@ -1,0 +1,21 @@
+{
+    "scan_interval": 5,
+    "suspicious_keywords": [
+        "keylog",
+        "pynput",
+        "keyboard",
+        "win32api",
+        "hook",
+        "pyhook"
+    ],
+    "email_enabled": false,
+    "recipient_email": "your_email@example.com",
+    "smtp_server": "smtp.gmail.com",
+    "smtp_port": 587,
+    "smtp_user": "your_gmail@gmail.com",
+    "smtp_password": "your_app_password"
+}
+
+
+
+
